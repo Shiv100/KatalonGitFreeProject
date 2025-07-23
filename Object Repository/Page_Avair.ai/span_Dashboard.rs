@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>99f88f59-be90-4927-9e8f-8366fd530097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/aside/nav/a[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dashboard&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>595358e4-1e85-4dfc-b05c-f60acca6d870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>821a6de6-8a6a-4db3-b9ca-cab31e3c94e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen bg-background&quot;]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-[280px_1fr] min-h-[calc(100vh-73px)] lg:min-h-screen&quot;]/aside[@class=&quot;fixed lg:sticky top-0 left-0 z-40 w-[200px] lg:w-[280px] h-screen bg-gray-100 border-r border-gray-200 
+          flex flex-col transition-transform duration-300 ease-in-out
+          -translate-x-full lg:translate-x-0&quot;]/nav[@class=&quot;flex-grow p-md space-y-sm overflow-y-auto&quot;]/a[@class=&quot;flex items-center space-x-3 px-md py-sm rounded-md text-gray-700 hover:bg-gray-200 hover:text-gray-900 transition-colors duration-150&quot;]/span[1]</value>
+      <webElementGuid>ddefbddb-79b9-4135-8589-c4d7ee4daa61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/aside/nav/a[3]/span</value>
+      <webElementGuid>622bba8e-5361-4033-a1a9-92eb663938fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Campaigns'])[1]/following::span[1]</value>
+      <webElementGuid>b50dea12-e74e-407e-a5a2-b8afdfc2ca3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start New Campaign'])[1]/following::span[2]</value>
+      <webElementGuid>5d822403-dc87-458a-8521-40d174fe7882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🚀 Early Access Beta'])[1]/preceding::span[1]</value>
+      <webElementGuid>b4973a5a-50c7-43f8-96bf-a3b14a569293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[1]</value>
+      <webElementGuid>90ccef17-bf12-4650-86a9-26d0b7505e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>0526a709-f1d6-4d74-a8ff-59de34e45e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span</value>
+      <webElementGuid>984aeabd-12d0-4b8f-ba98-14767bdc4f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>347452a8-43d3-43ac-97ed-aaca206be29b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
